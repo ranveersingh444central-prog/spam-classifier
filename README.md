@@ -77,7 +77,7 @@ Evaluated on the 1,034 test samples (metrics reported for the positive **Spam** 
 
 ### 1. Clone or Open the Repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/ranveersingh444central-prog/spam-classifier
 cd spam-classifier
 ```
 
